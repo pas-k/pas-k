@@ -1,1 +1,1 @@
-Storing games made whiel learning python
+Storing games made while learning python
